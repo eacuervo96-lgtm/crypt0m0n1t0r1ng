@@ -16,7 +16,7 @@ API_URL = "https://api.coingecko.com/api/v3/simple/price"
 COINS_DEFAULT = (
     "binancecoin,ripple,solana,tron,dogecoin,stellar,cardano,chainlink,"
     "litecoin,avalanche-2,near,uniswap,pax-gold,worldcoin,polkadot,"
-    "internet-computer,pol-ex-matic,ethena,algorand,arbitrum,injective-protocol"
+    "internet-computer,polygon-ecosystem-token,ethena,algorand,arbitrum,injective-protocol"
 )
 
 st.set_page_config(page_title="Monitor de Criptomonedas", page_icon="🪙", layout="wide")
